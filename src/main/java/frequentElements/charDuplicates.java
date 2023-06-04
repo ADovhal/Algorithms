@@ -1,3 +1,5 @@
+package frequentElements;
+
 import java.util.*;
 
 public class charDuplicates {
